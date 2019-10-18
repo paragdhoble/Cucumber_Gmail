@@ -9,7 +9,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import java.util.concurrent.TimeUnit;
 
 
-public class Basket extends Reuseable {
+public class Gmail_Page extends Reuseable {
      WebDriver driver;
 
 
